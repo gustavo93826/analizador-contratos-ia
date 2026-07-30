@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+pytesseract
+pillow
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+streamlit
+python-dotenv
+pydantic

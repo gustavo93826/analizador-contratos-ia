@@ -1,0 +1,20 @@
+# Entorno
+venv/
+__pycache__/
+*.pyc
+
+# Variables de entorno (contiene tu API Key)
+.env
+
+# Datos generados por el usuario
+data/uploads/*
+data/vectorstore/*
+!data/uploads/.gitkeep
+!data/vectorstore/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
