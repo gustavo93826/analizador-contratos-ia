@@ -11,3 +11,4 @@ chromadb
 streamlit
 python-dotenv
 pydantic
+requests
